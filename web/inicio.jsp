@@ -15,7 +15,7 @@
         <title>Lista de Alumnos</title>
     </head>
     <body>
-        <h1>Lista general de Alumnos a presentar Extraordinarios</h1>
+        <h1>Lista general de Alumnos para Actualizar</h1>
         <div class="container" >
             <br>
             <table border ="2" >
